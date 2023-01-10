@@ -1,7 +1,22 @@
 <h1>Commands of GIT for practical </h1>
 
+
+
+<!-- TOC -->
+
+- [Practical Test](#markdown-navigation)
+    - [1. Pull and Merge difference](## 1. Pull and Merge difference)
+    - [2. Rebase](## 2. Rebase)
+    - [3. Change Commit Message](## 3. Change Commit Message)
+    - [4. Cherry Pick](## 4. Cherry Pick)
+    - [5. Drop commit](## 5. Drop commit)
+    
+
+<!-- /TOC -->
+
+
 ## 1. Pull and Merge difference
-## for pull 
+### for pull 
 
 ```bash
     git pull
