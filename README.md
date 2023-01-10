@@ -79,3 +79,17 @@
 
 ```
 
+<h3>Git log  for dropping 98ca8ce</h3>
+<img src="images/git_drop_1.png" title="git log drop for " />
+
+<h3>adding drop inside git rebase</h3>
+<img src="images/git_drop_2.png" title="edit inside git rebase and add drop option" />
+
+<h3>Successfully dropped commit 98ca8ce</h3>
+<img src="images/git_drop_3.png" title="dropped commits" />
+
+<h3>Git log after dropped</h3>
+<img src="images/git_drop_5.png" title="git log after dropped " />
+
+
+
