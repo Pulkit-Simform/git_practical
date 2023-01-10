@@ -1,0 +1,26 @@
+#include<stdio.h>
+
+void cherry_pick_1_method(){
+    printf("Cherry_pick_1 method");
+}
+
+<<<<<<< HEAD
+=======
+void drop_1_commit(){
+    printf("This commit will be droppped");
+}
+
+
+void drop_2_commit(){
+    printf("This commit will not be droppped");
+}
+
+>>>>>>> df8412f (1st commit that will not be dropped)
+void solve(){
+    printf("From solve method");
+}
+
+int main(){
+    printf("Hello world");
+    solve();
+}
