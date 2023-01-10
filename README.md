@@ -5,11 +5,11 @@
 <!-- TOC -->
 
 - [Practical Test](#index)
-    - [1. Pull and Merge difference](##1-pull-and-merge-difference)
-    - [2. Rebase](##2-rebase)
-    - [3. Change Commit Message](##3-change-commit-message)
-    - [4. Cherry Pick](##4-cherry-pick)
-    - [5. Drop commit](##5-drop-commit)
+    - [1. Pull and Merge difference](#1-pull-and-merge-difference)
+    - [2. Rebase](#2-rebase)
+    - [3. Change Commit Message](#3-change-commit-message)
+    - [4. Cherry Pick](#4-cherry-pick)
+    - [5. Drop commit](#5-drop-commit)
     
 
 <!-- /TOC -->
