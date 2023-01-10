@@ -4,7 +4,7 @@
 
 <!-- TOC -->
 
-- [Practical Test](#markdown-navigation)
+- [Practical Test](#index)
     - [1. Pull and Merge difference](##1.-Pull-and-Merge-difference)
     - [2. Rebase](##2.-Rebase)
     - [3. Change Commit Message](##3.-Change-Commit-Message)
