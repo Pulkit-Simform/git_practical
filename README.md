@@ -26,7 +26,7 @@
 ```bash
     git rebase <branch-name>
 ```
-<img src="images/git_rebase.png" title="git merge from feature branch to master" />
+<img src="images/git_rebase.png" title="git rebase from feature branch to master" />
 
 
 
@@ -38,4 +38,8 @@
     # or if we want to change last then we have to use
     git commit --amend
 ```
-<img src="images/git_rebase.png" title="git merge from feature branch to master" />
+<h3>Before renaming check de2da56 </h3>
+<img src="images/git_rename_before.png" title="git rename before" />
+
+<h3>After renaming check de2da56 </h3>
+<img src="images/git_rename_after.png" title="git rename before" />
