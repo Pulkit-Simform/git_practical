@@ -26,3 +26,16 @@
 ```bash
     git rebase <branch-name>
 ```
+<img src="images/git_rebase.png" title="git merge from feature branch to master" />
+
+
+
+## 3. Change Commit Message
+
+```bash
+    git rebase -i @~n    # here n stands for to the n commit that we want to change
+    # and inside we have to use reword
+    # or if we want to change last then we have to use
+    git commit --amend
+```
+<img src="images/git_rebase.png" title="git merge from feature branch to master" />
