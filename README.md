@@ -13,8 +13,16 @@
 <img src="images/pull_2.png" title="pull from github to local"/>
 
 
-## for merge 
+### for merge 
 ```bash
     git merge <branch-name>
 ```
 <img src="images/git_merge.png" title="git merge from feature branch to master" />
+
+<br />
+
+## 2. Rebase
+
+```bash
+    git rebase <branch-name>
+```
