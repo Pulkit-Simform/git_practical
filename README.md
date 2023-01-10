@@ -61,3 +61,21 @@
 
 <h3>After cherry-pick  </h3>
 <img src="images/git_cherry_pick_after.png" title="git cherry-pick after" />
+
+
+
+## 5. Drop commit
+
+
+```bash
+   git rebase -i @~n # n from where to pick
+
+   # and then inside choose the commit name
+   # after choosing commit name use "drop" for dropping the commit
+
+
+   !# and for last change simply used
+   git reset HEAD^ # and then commit it
+
+```
+
