@@ -7,7 +7,7 @@
         git pull
     ```
 
-    ![pull from github](images/pull_1.png)
+<img src="images/pull_1.png" text="pull from github"/>
     <br/>
     ![pull from local](images/pull_2.png)
 
