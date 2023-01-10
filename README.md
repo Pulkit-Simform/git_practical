@@ -89,7 +89,7 @@
 <img src="images/git_drop_3.png" title="dropped commits" />
 
 <h3>Git log after dropped</h3>
-<img src="images/git_drop_5.png" title="git log after dropped " />
+<img src="images/git_drop_4.png" title="git log after dropped " />
 
 
 
